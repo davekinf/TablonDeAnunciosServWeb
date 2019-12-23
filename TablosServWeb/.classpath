@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/javamail-1.4.5/mail.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/eclipselink-2.5.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jersey-container-jdk-http-2.14.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jersey-entity-filtering-2.3.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jersey-media-moxy-2.14.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/org.eclipse.persistence.moxy-2.5.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxrs-ri-2.14/jaxrs-ri/lib/jersey-client.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxrs-ri-2.14/jaxrs-ri/lib/jersey-common.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxrs-ri-2.14/jaxrs-ri/lib/jersey-container-servlet.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxrs-ri-2.14/jaxrs-ri/lib/jersey-container-servlet-core.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxrs-ri-2.14/jaxrs-ri/lib/jersey-server.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/P7D/lib/eclipselink-2.5.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/P7D/lib/org.eclipse.persistence.moxy-2.5.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/codemodel.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/dtd-parser.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/FastInfoset.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/istack-commons-runtime.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/istack-commons-tools.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/jaxb-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/jaxb-jxc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/jaxb-runtime.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/jaxb-xjc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/relaxng-datatype.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/rngom.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/stax-ex.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/txw2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/Material para estudiantes práctica JAX-RS 7 (1)/jaxb-ri/mod/xsom.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/drome/eclipse-workspace/TablosServWeb/librerias/javax.ws.rs-api-2.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
